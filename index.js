@@ -10,8 +10,4 @@ function convertBytes(bytes, precision = 2) {
     return bytes.toFixed(precision) + ' ' + units[unitIndex];
 }
 
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = convertBytes;
-} else {
-    export default convertBytes;
-}
+module.exports = convertBytes;
