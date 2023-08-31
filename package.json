@@ -1,0 +1,20 @@
+{
+  "name": "convert-bytes",
+  "version": "1.0.1",
+  "description": "A simple utility to convert bytes to human-readable file sizes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsundeep/convert-bytes.git"
+  },
+  "author": "Sundeep Sharma",
+  "license": "MIT",
+  "keywords": ["byte converter","convert-bytes","byte-converter"],
+  "bugs": {
+    "url": "https://github.com/codewithsundeep/convert-bytes/issues"
+  },
+  "homepage": "https://github.com/codewithsundeep/convert-bytes#readme"
+}
