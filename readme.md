@@ -33,4 +33,4 @@ const fileSize1 = convertBytes(1024); // 1.00 KB
 const fileSize2 = convertBytes(1024 * 1024 * 5, 3); // 5.000 MB
 ```
 ## License
-This package is released under the [MIT License]().
+This package is released under the [MIT License](https://github.com/codewithsundeep/convert-bytes/blob/main/LICENSE).
